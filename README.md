@@ -14,9 +14,6 @@ The CBVR basically retrieves a related video from the database based on visual c
 
 ![Example]()
 
-![Example2](
-
-)
 
 
 ---
@@ -47,7 +44,8 @@ These instructions will get you a copy of the project up and running on your loc
  
 ``` 
 ## UML Class Diagram 
- - 
+ 
+ ![UML](https://raw.githubusercontent.com/Mostafa-ashraf19/content-based-retrieval-system/main/Imgs/mm_diagram.png)
  
   
 ## Deployment
