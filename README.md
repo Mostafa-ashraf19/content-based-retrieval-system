@@ -8,14 +8,6 @@ The content-based video retrieval has attracted the users as the use of multimed
 But when it comes to huge and larger databases or data warehouses, content-based retrieval plays a vital role. Hence making the system more robust and reliable as well as automatized is necessary for the domain of the CBVR system.
 The CBVR basically retrieves a related video from the database based on visual contents like color, texture, edge, shape, and motion.
 
-
- ---
-## Public View and Example From program
-
-![Example]()
-
-
-
 ---
 ## Contributors
 
@@ -45,12 +37,5 @@ These instructions will get you a copy of the project up and running on your loc
 ``` 
 ## UML Class Diagram 
  
- ![UML](https://raw.githubusercontent.com/Mostafa-ashraf19/content-based-retrieval-system/main/Imgs/mm_diagram.png)
+ ![UML](https://raw.githubusercontent.com/Mostafa-ashraf19/content-based-retrieval-system/main/Imgs/mm_diagram.png?token=AN55WNUQXCJVPUAEKU44Q2LBNNB46)
  
-  
-## Deployment
-  - Windows Package: 
-
-  ![]()
-  
-
